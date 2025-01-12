@@ -22,7 +22,7 @@
 
 ## Your Achievements for this week
 
-- [ ] Set up a basic Express.js server using ![json-server](https://github.com/typicode/json-server)
-  Build a posts CRUD API. Use the provided `db.json`
+- [ ] Set up a basic Express.js server using [json-server](https://github.com/typicode/json-server)
+- [ ] Build a posts CRUD API. Use the provided `db.json`
 - [ ] Build a React app to list all posts and add a new one.
 
