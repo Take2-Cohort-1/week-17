@@ -19,10 +19,12 @@
 1. [Node.js Official Documentation](https://nodejs.org/en/docs/)
 1. [Codecademy - "Learn Node.js"](https://www.codecademy.com/learn/learn-node-js)
 1. [YouTube - "Express.js Crash Course"](https://www.youtube.com/watch?v=L72fhGm1tfE)
+1. [Tutorial 1](https://www.robinwieruch.de/node-express-server-rest-api/)
+1. [Tutorial 2](https://blog.postman.com/how-to-create-a-rest-api-with-node-js-and-express/)
 
 ## Your Achievements for this week
 
-- [ ] Set up a basic Express.js server using [json-server](https://github.com/typicode/json-server)
-- [ ] Build a posts CRUD API. Use the provided `db.json`
+- [ ] Set up a basic Express.js server using ![json-server](https://github.com/typicode/json-server)
+  Build a posts CRUD API. Use the provided `db.json`
 - [ ] Build a React app to list all posts and add a new one.
 
